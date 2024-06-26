@@ -42,9 +42,9 @@ Partial Class Form1
         Me.ListBox1.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.ListBox1.FormattingEnabled = True
         Me.ListBox1.ItemHeight = 20
-        Me.ListBox1.Location = New System.Drawing.Point(146, 187)
+        Me.ListBox1.Location = New System.Drawing.Point(117, 192)
         Me.ListBox1.Name = "ListBox1"
-        Me.ListBox1.Size = New System.Drawing.Size(200, 84)
+        Me.ListBox1.Size = New System.Drawing.Size(263, 84)
         Me.ListBox1.TabIndex = 2
         '
         'TextBox1
