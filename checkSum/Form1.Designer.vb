@@ -30,7 +30,7 @@ Partial Class Form1
         'Button1
         '
         Me.Button1.Anchor = System.Windows.Forms.AnchorStyles.None
-        Me.Button1.Location = New System.Drawing.Point(178, 123)
+        Me.Button1.Location = New System.Drawing.Point(184, 128)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(137, 36)
         Me.Button1.TabIndex = 1
@@ -40,19 +40,21 @@ Partial Class Form1
         'ListBox1
         '
         Me.ListBox1.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.ListBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!)
         Me.ListBox1.FormattingEnabled = True
-        Me.ListBox1.ItemHeight = 20
-        Me.ListBox1.Location = New System.Drawing.Point(117, 192)
+        Me.ListBox1.ItemHeight = 25
+        Me.ListBox1.Location = New System.Drawing.Point(90, 192)
         Me.ListBox1.Name = "ListBox1"
-        Me.ListBox1.Size = New System.Drawing.Size(263, 84)
+        Me.ListBox1.Size = New System.Drawing.Size(328, 79)
         Me.ListBox1.TabIndex = 2
         '
         'TextBox1
         '
         Me.TextBox1.Anchor = System.Windows.Forms.AnchorStyles.None
-        Me.TextBox1.Location = New System.Drawing.Point(146, 67)
+        Me.TextBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!)
+        Me.TextBox1.Location = New System.Drawing.Point(152, 67)
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(200, 26)
+        Me.TextBox1.Size = New System.Drawing.Size(200, 30)
         Me.TextBox1.TabIndex = 3
         '
         'Form1
