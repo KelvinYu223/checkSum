@@ -7,8 +7,8 @@
             totalInt = totalInt Xor AscCode
         Next
         Dim finalInt As String = Hex(totalInt)
-        finalInt += "*"
         ListBox1.Items.Add("Check Sum Xor:" + finalInt)
+        finalInt += "*"
         ListBox1.Items.Add("Final String:" + input + finalInt)
     End Sub
 
