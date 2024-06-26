@@ -1,6 +1,4 @@
-﻿Imports System.ComponentModel
-
-Public Class Form1
+﻿Public Class Form1
     Private Sub checkSum()
         Dim totalInt As Long
         Dim input As String = TextBox1.Text
